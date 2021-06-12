@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PAS_05_10RPL1</string>
+
+    <string-array name="nameprof">
+        <item>Rafa</item>
+        <item>Taka</item>
+        <item>Seno</item>
+        <item>Kyla</item>
+        <item>Lyon</item>
+        <item>Casper</item>
+        <item>Jajat</item>
+    </string-array>
+
+    <string-array name="numberhp">
+        <item>26372367</item>
+        <item>2877282378</item>
+        <item>93874342</item>
+        <item>23872739</item>
+        <item>95755753</item>
+        <item>4858550</item>
+        <item>76675854</item>
+    </string-array>
+
+</resources>

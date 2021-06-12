@@ -1,0 +1,2 @@
+rootProject.name = "PAS_05_10RPL1"
+include ':app'
